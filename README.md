@@ -1,2 +1,2 @@
 # Amazon-Clone-Website-
-Build by Royal ViSu
+Build by Royal Vishal
